@@ -1,2 +1,10 @@
+Mai Buyoh (舞葉 舞)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buyoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Favorites
+
+- TypeScript, Rust, C++, Java, Ruby, HTML
+- Linux / Android
+
+### Links
+
+https://buyoh.github.io/
